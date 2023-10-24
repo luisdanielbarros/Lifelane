@@ -1,0 +1,63 @@
+﻿{
+  "storyflag": 0,
+  "storyflagindex": 0,
+  "incstoryflag": false,
+  "incstoryflagindex": true,
+  "music": "",
+  "teleportsplayer": false,
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 0,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playermovement": "normal",
+  "interactioncutscene": [
+    "Mouse rotates the Player's view.",
+    "WASD & Arrow Keys move the Player."
+  ],
+  "interactionregular": [
+    "Sam",
+
+    "...",
+    ",CharSamGettingUp",
+    "NATURE_1,SAMUEL_PAIN_1",
+
+    "That hurt... My whole body hurts... What a headache.",
+    ",CharSamGettingUp2",
+    "",
+
+    "W-What's up...? Did something happen? I must've been passed out hard...",
+    ",CharSamConfused",
+    "",
+
+    "Where'd everyone go?... Where is this place?!",
+    ",CharSamConfused2",
+    "",
+
+    "Am I dreaming... I ate something weird again, I bet ya... did I not?",
+    ",CharSamPsychologicalPain",
+    "",
+
+    "No... It's too real for that.",
+    ",CharSamPhysicalPain",
+    "",
+
+    "No idea what this place is about.",
+    ",CharSamThinking",
+    "",
+
+    "Damn, it SURE is annoying to think with my mouth filled with sand, this hangover isn't helping either...",
+    ",CharSamGettingUp",
+    "",
+
+    "Anyways, I NEED get out of here, lots of tall, shaking buildings around here.",
+    ",CharSamNeutral",
+    "EMERGENCY"
+  ],
+  "interactionpickupitem": [],
+  "collectibleitemid": "",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": false,
+  "repeat": false
+}

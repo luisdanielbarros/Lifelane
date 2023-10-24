@@ -1,0 +1,20 @@
+{
+    "enemyone": [
+        "slime",
+        "3"
+    ],
+    "enemytwo": [
+        "slime",
+        "3"
+    ],
+    "enemythree": [
+        "slime",
+        "3"
+    ],
+    "enemyfour": [
+        "slime",
+        "3"
+    ],
+    "scenery": "urban",
+    "music": "BATTLE_NORMAL"
+}

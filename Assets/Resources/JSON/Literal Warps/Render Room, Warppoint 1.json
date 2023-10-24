@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 10,
+  "levelname": "Render Room",
+  "showlevelname": true,
+  "music": "MUSIC_MAIN_MENU",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_NONE",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": -3,
+  "playerrotation": 180,
+  "playerperspective": "pov",
+  "weather": "default",
+  "istimerunning": false
+}

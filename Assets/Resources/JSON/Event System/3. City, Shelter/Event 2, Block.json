@@ -1,0 +1,28 @@
+﻿{
+  "storyflag": 0,
+  "storyflagindex": 0,
+  "incstoryflag": false,
+  "incstoryflagindex": false,
+  "music": "",
+  "teleportsplayer": true,
+  "playercoordinatesx": -18,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": -0.75,
+  "playerrotation": 0,
+  "playermovement": "",
+  "interactioncutscene": [],
+  "interactionregular": [
+    "...",
+
+    "Uh? There's something on that table, not that I like prying into people's lives but it would probably be safer reading it first before going down the hall.",
+    "",
+    ""
+  ],
+  "interactionpickupitem": [],
+  "collectibleitemid": "",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": true,
+  "repeat": true
+}

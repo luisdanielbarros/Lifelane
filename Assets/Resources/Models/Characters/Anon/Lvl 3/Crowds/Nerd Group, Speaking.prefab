@@ -1,0 +1,480 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &815055051460652814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9098795331880945939}
+  m_Layer: 0
+  m_Name: Thinking B M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9098795331880945939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 815055051460652814}
+  m_LocalRotation: {x: 0, y: 0.8314696, z: 0, w: 0.55557024}
+  m_LocalPosition: {x: -0.675, y: 0, z: 0.45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5840008317216727868}
+  m_Father: {fileID: 9111201911291192662}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 112.5, z: 0}
+--- !u!1 &3854696949585702285
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 352636556859953111}
+  m_Layer: 0
+  m_Name: Thinking M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &352636556859953111
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3854696949585702285}
+  m_LocalRotation: {x: 0, y: 0.8314698, z: -0, w: -0.55557}
+  m_LocalPosition: {x: 0.675, y: 0, z: 0.45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1730440336323549996}
+  m_Father: {fileID: 9111201911291192662}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 247.5, z: 0}
+--- !u!1 &3950013443236090091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1786430845245643294}
+  m_Layer: 0
+  m_Name: Phone M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1786430845245643294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3950013443236090091}
+  m_LocalRotation: {x: 0, y: 0.19509031, z: 0, w: 0.98078537}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 783944269546619367}
+  m_Father: {fileID: 9111201911291192662}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 22.5, z: 0}
+--- !u!1 &4376962383881178288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8453710774254966744}
+  m_Layer: 0
+  m_Name: Thinking B M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8453710774254966744
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4376962383881178288}
+  m_LocalRotation: {x: 0, y: 0.92387956, z: 0, w: 0.38268343}
+  m_LocalPosition: {x: 0, y: 0, z: 0.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4351922669329386745}
+  m_Father: {fileID: 9111201911291192662}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 135, z: 0}
+--- !u!1 &9111201911291192663
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9111201911291192662}
+  m_Layer: 0
+  m_Name: Nerd Group, Speaking
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9111201911291192662
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9111201911291192663}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1786430845245643294}
+  - {fileID: 352636556859953111}
+  - {fileID: 8453710774254966744}
+  - {fileID: 9098795331880945939}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1243624388926098389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8453710774254966744}
+    m_Modifications:
+    - target: {fileID: 158226310484755673, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d56905a6596a62f42a92f86e927cb7d6, type: 2}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083117, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_Name
+      value: Nerd Anon M 1, Thinking B M
+      objectReference: {fileID: 0}
+    - target: {fileID: 4894586164207322735, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3e994b3a5db98364880209ad7a010913, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72e1d5e0899e4f04a9529d28e02a376b, type: 3}
+--- !u!4 &4351922669329386745 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3253603713594083116, guid: 72e1d5e0899e4f04a9529d28e02a376b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1243624388926098389}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2866046923933828811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1786430845245643294}
+    m_Modifications:
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083117, guid: 61a116387e0f9b74ca5be439edee7a98,
+        type: 3}
+      propertyPath: m_Name
+      value: Nerd Anon M 2, Phone M
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 61a116387e0f9b74ca5be439edee7a98, type: 3}
+--- !u!4 &783944269546619367 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3253603713594083116, guid: 61a116387e0f9b74ca5be439edee7a98,
+    type: 3}
+  m_PrefabInstance: {fileID: 2866046923933828811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3829428607910435840
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 352636556859953111}
+    m_Modifications:
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083117, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+        type: 3}
+      propertyPath: m_Name
+      value: Nerd Anon M 1, Thinking M
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 730800a9ac6b06047bf1cd3fec7cbf2f, type: 3}
+--- !u!4 &1730440336323549996 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3253603713594083116, guid: 730800a9ac6b06047bf1cd3fec7cbf2f,
+    type: 3}
+  m_PrefabInstance: {fileID: 3829428607910435840}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8947807801211446288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 9098795331880945939}
+    m_Modifications:
+    - target: {fileID: 1724480717440833280, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d56905a6596a62f42a92f86e927cb7d6, type: 2}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253603713594083117, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_Name
+      value: Nerd Anon M 2, Thinking B M
+      objectReference: {fileID: 0}
+    - target: {fileID: 4405237975691105269, guid: d0b71ab00b619d441afcc4c315a51769,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 64648766db00bcc4f8413ba2be417fb7, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d0b71ab00b619d441afcc4c315a51769, type: 3}
+--- !u!4 &5840008317216727868 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3253603713594083116, guid: d0b71ab00b619d441afcc4c315a51769,
+    type: 3}
+  m_PrefabInstance: {fileID: 8947807801211446288}
+  m_PrefabAsset: {fileID: 0}

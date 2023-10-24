@@ -1,0 +1,9 @@
+{
+    "move": "Poltergeist",
+    "type": "Supernatural",
+    "range": "Far",
+    "contact": false,
+    "damage": 100,
+    "accuracy": 87,
+    "hits": 1
+}

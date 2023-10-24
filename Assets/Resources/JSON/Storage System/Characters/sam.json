@@ -1,0 +1,21 @@
+﻿{
+  "name": "Sam",
+  "imageprofile": "Sam, Team Profile",
+  "gender": "male",
+  "age": "young adult",
+  "personality": "extrovert",
+  "physic": "body",
+  "head": "head (samuel)",
+  "eyes": "eyes (samuel)",
+  "hair": "hair (samuel)",
+  "jacket": "none",
+  "shirt": "t-shirt (samuel)",
+  "pants": "jeans (samuel)",
+  "socks": "long socks (samuel)",
+  "shoes": "shoes (samuel)",
+  "acessory1": "collar (samuel)",
+  "acessory2": "bracelet (samuel)",
+  "acessory3": "none",
+  "headscale": 1,
+  "bodyscale": 1.0675
+}

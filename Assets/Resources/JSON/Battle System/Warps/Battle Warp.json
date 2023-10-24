@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 3,
+  "levelname": "",
+  "showlevelname": false,
+  "music": "MUSIC_BATTLE",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_NONE",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 0,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playerperspective": "mapped",
+  "weather": "Default",
+  "istimerunning": false
+}

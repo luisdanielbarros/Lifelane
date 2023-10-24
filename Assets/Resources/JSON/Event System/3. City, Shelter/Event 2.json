@@ -1,0 +1,31 @@
+﻿{
+  "storyflag": 0,
+  "storyflagindex": 0,
+  "incstoryflag": false,
+  "incstoryflagindex": true,
+  "music": "",
+  "teleportsplayer": false,
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 0,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playermovement": "",
+  "interactioncutscene": [
+    "You can read the Player's journal at Overworld Menu > Journal > (The journal entry)."
+  ],
+  "interactionregular": ["...", "Uh? There's something on the table", "", ""],
+  "interactionpickupitem": [
+    "lore, bells 1",
+    "MUSIC_LEVEL_HORROR_1",
+    "CREEPY",
+    "glow",
+
+    "You put the note on your pocket."
+  ],
+  "collectibleitemid": "lore, bells 1",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": true,
+  "repeat": false
+}

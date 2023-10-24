@@ -1,0 +1,14 @@
+﻿{
+  "name": "None",
+  "health": 50,
+  "anima": 50,
+  "strength": 50,
+  "toughness": 50,
+  "channelling": 50,
+  "sensitivity": 50,
+  "speed": 50,
+  "intuition": 50,
+  "levelupmoves": [
+    "1, basicAttack"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 6,
+  "levelname": "Shelter",
+  "showlevelname": true,
+  "music": "MUSIC_LEVEL_HORROR_1",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_NONE",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": -1,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": -1,
+  "playerrotation": -90,
+  "playerperspective": "mapped",
+  "weather": "default",
+  "istimerunning": false
+}

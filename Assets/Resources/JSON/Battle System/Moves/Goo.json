@@ -1,0 +1,9 @@
+{
+    "move": "Goo",
+    "type": "Normal",
+    "range": "Medium",
+    "contact": false,
+    "damage": 2,
+    "accuracy": 87,
+    "hits": 1
+}

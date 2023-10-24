@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 4,
+  "levelname": "River Route",
+  "showlevelname": true,
+  "music": "",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_1",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 37,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": -70.3,
+  "playerrotation": 0,
+  "playerperspective": "controlled",
+  "weather": "default",
+  "istimerunning": false
+}

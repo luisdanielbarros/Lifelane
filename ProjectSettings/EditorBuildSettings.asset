@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2. Scenes/0. Main Menu.unity
+    guid: 5c7517eb146328345941720a322cda78
+  - enabled: 1
+    path: Assets/2. Scenes/1. Virtual Hub.unity
+    guid: eafddcddb35fc244786059811c42de7b
+  - enabled: 1
+    path: Assets/2. Scenes/2. City, Deadend.unity
+    guid: ccd46776aeb2a66439434a9c58c905b1
+  - enabled: 1
+    path: Assets/2. Scenes/3. City, Main Plaza.unity
+    guid: e47efb4f32370fc4d9d6b99a8f239b4d
+  - enabled: 1
+    path: Assets/2. Scenes/3. City, River Route.unity
+    guid: 633921c2aa3134e47a3d5730511fd423
+  - enabled: 1
+    path: Assets/2. Scenes/3. City, Residential District.unity
+    guid: d47535ddf889b8c4f845b0b2271ff9f3
+  - enabled: 1
+    path: Assets/2. Scenes/3. City, Shelter.unity
+    guid: 1d582203dc58ef94f9fd4e4deae46050
+  - enabled: 1
+    path: Assets/2. Scenes/8. Battle.unity
+    guid: c32a34fe287c06b4f959ef450273c347
+  - enabled: 1
+    path: Assets/2. Scenes/9. Credits.unity
+    guid: 56f5f56a17f90f246b4cc2ba5b458fc7
+  - enabled: 1
+    path: Assets/2. Scenes/9. Backrooms.unity
+    guid: 27c6b91d5b7c83546a09a484335f2464
+  - enabled: 1
+    path: Assets/2. Scenes/9. Render Room.unity
+    guid: cffd30fd42b411f4392f3751c53eef41
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 97e52b1b414dca440805336951b7b16e,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 69bcbc8c2ccb26a47a6535db0aa01d8a,
+      type: 2}

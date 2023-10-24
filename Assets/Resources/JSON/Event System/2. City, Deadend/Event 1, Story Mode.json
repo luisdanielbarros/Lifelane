@@ -1,0 +1,22 @@
+﻿{
+  "storyflag": -1,
+  "storyflagindex": -1,
+  "incstoryflag": false,
+  "incstoryflagindex": false,
+  "music": "",
+  "teleportsplayer": false,
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 0,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playermovement": "normal",
+  "interactioncutscene": [],
+  "interactionregular": [],
+  "interactionpickupitem": [],
+  "collectibleitemid": "",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": false,
+  "repeat": false
+}

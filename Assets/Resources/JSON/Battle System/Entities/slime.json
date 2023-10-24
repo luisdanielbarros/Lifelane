@@ -1,0 +1,14 @@
+{
+    "name": "Slime",
+    "health": 100,
+    "anima": 12,
+    "strength": 25,
+    "toughness": 25,
+    "channelling": 12,
+    "sensitivity": 25,
+    "speed": 12,
+    "intuition": 12,
+    "levelupmoves": [
+        "1, Goo"
+    ]
+}

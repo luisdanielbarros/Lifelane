@@ -1,0 +1,443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6000342688602196086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8796659307043499030}
+  m_Layer: 0
+  m_Name: Offset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8796659307043499030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6000342688602196086}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.36875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2700634711364314626}
+  - {fileID: 2700634711779562219}
+  - {fileID: 2700634711143001123}
+  - {fileID: 2700634711541078972}
+  - {fileID: 2700634711809422833}
+  m_Father: {fileID: 8397861618326988552}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8397861618326988553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8397861618326988552}
+  m_Layer: 0
+  m_Name: Sidewalk Perimeter Series
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8397861618326988552
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8397861618326988553}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8796659307043499030}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8397861616827225278
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8796659307043499030}
+    m_Modifications:
+    - target: {fileID: 1084219446835085141, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_Name
+      value: Sidewalk Perimeter (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53, type: 3}
+--- !u!4 &2700634711541078972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+    type: 3}
+  m_PrefabInstance: {fileID: 8397861616827225278}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8397861616847478249
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8796659307043499030}
+    m_Modifications:
+    - target: {fileID: 1084219446835085141, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_Name
+      value: Sidewalk Perimeter (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53, type: 3}
+--- !u!4 &2700634711779562219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+    type: 3}
+  m_PrefabInstance: {fileID: 8397861616847478249}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8397861617095441139
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8796659307043499030}
+    m_Modifications:
+    - target: {fileID: 1084219446835085141, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_Name
+      value: Sidewalk Perimeter (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53, type: 3}
+--- !u!4 &2700634711809422833 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+    type: 3}
+  m_PrefabInstance: {fileID: 8397861617095441139}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8397861617490305825
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8796659307043499030}
+    m_Modifications:
+    - target: {fileID: 1084219446835085141, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_Name
+      value: Sidewalk Perimeter (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53, type: 3}
+--- !u!4 &2700634711143001123 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+    type: 3}
+  m_PrefabInstance: {fileID: 8397861617490305825}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8397861617505970432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8796659307043499030}
+    m_Modifications:
+    - target: {fileID: 1084219446835085141, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_Name
+      value: Sidewalk Perimeter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53, type: 3}
+--- !u!4 &2700634711364314626 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5904683464667500290, guid: 63bb6d8e41c710a4dbe4d4997a5b7d53,
+    type: 3}
+  m_PrefabInstance: {fileID: 8397861617505970432}
+  m_PrefabAsset: {fileID: 0}

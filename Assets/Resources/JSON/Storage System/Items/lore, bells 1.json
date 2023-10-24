@@ -1,0 +1,8 @@
+﻿{
+  "name": "Leftover note",
+  "description": "An ominous piece of paper.",
+  "itemicon": "note",
+  "type": "Collectible",
+  "rarity": "None",
+  "slotspace": 0
+}

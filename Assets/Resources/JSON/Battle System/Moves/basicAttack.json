@@ -1,0 +1,9 @@
+{
+    "move": "Basic Attack",
+    "type": "Normal",
+    "range": "Close",
+    "contact": true,
+    "damage": 16,
+    "accuracy": 87,
+    "hits": 1
+}

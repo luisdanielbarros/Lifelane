@@ -1,0 +1,28 @@
+﻿{
+  "storyflag": -1,
+  "storyflagindex": -1,
+  "incstoryflag": false,
+  "incstoryflagindex": false,
+  "music": "",
+  "teleportsplayer": true,
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": -136,
+  "playerrotation": 180,
+  "playermovement": "",
+  "interactioncutscene": [],
+  "interactionregular": [
+    "Sam",
+
+    "Uugh, more rocks blocking the way...",
+    ",CharSamSpeaking",
+    ""
+  ],
+  "interactionpickupitem": [],
+  "collectibleitemid": "",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": true,
+  "repeat": false
+}

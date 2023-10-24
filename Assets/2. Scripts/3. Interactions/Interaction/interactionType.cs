@@ -1,0 +1,1 @@
+﻿public enum interactionType { Regular, YesOrNo, MultipleChoice }

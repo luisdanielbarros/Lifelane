@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 8,
+  "levelname": "Credits",
+  "showlevelname": false,
+  "music": "MUSIC_CREDITS",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_NONE",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 0,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playerperspective": "unchanged",
+  "weather": "default",
+  "istimerunning": false
+}

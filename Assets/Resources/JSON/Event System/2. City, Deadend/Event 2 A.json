@@ -1,0 +1,28 @@
+﻿{
+  "storyflag": -1,
+  "storyflagindex": -1,
+  "incstoryflag": false,
+  "incstoryflagindex": false,
+  "music": "",
+  "teleportsplayer": true,
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playermovement": "",
+  "interactioncutscene": [],
+  "interactionregular": [
+    "Sam",
+
+    "Are you crazy, dude...? A lil' slip and we'd be crushed like a bug.",
+    ",CharSamSpeaking",
+    ""
+  ],
+  "interactionpickupitem": [],
+  "collectibleitemid": "",
+  "warpdata": "",
+  "battlesdata": false,
+  "storymode": true,
+  "explorationmode": true,
+  "repeat": true
+}

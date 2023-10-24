@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 3,
+  "levelname": "Main Plaza",
+  "showlevelname": true,
+  "music": "",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_1",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 150,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": 244.5,
+  "playerrotation": 0,
+  "playerperspective": "controlled",
+  "weather": "default",
+  "istimerunning": false
+}

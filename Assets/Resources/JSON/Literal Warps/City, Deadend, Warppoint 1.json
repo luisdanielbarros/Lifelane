@@ -1,0 +1,16 @@
+﻿{
+  "buildindex": 2,
+  "levelname": "Deadend",
+  "showlevelname": true,
+  "music": "MUSIC_NONE",
+  "audioindustrial": "INDUSTRIAL_NONE",
+  "audionature": "NATURE_1",
+  "audioweather": "WEATHER_NONE",
+  "playercoordinatesx": 0,
+  "playercoordinatesy": 1,
+  "playercoordinatesz": 0,
+  "playerrotation": 0,
+  "playerperspective": "controlled",
+  "weather": "default",
+  "istimerunning": false
+}

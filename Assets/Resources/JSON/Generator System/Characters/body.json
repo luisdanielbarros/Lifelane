@@ -1,0 +1,8 @@
+﻿{
+  "name": "Body",
+  "type": "physic",
+  "path": "Body/Body",
+  "material1": "bodysamuel",
+  "material2": "none",
+  "material3": "none"
+}
